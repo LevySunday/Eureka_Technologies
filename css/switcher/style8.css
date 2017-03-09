@@ -1,0 +1,100 @@
+#style-switcher h2 a { background: #fe4819 none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #fe4819 none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+a, a:hover {
+    color: #fe4819;
+    text-decoration: none;
+}
+
+/*START MENU*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #fe4819 !important;
+    background-color: transparent;
+}
+.menu-top li a:hover { color: #fe4819!important }
+.navbar-default.menu-shrink li a:hover { color: #fe4819 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #fe4819 }
+/*END MENU*/
+
+
+.btn-light-bg {background: #fe4819 none repeat scroll 0 0;border: 2px solid #fe4819;}
+	
+.section-title h2 span { color: #fe4819 }
+
+.section-title div {background: #fe4819  none repeat scroll 0 0;}
+
+.btn-home-bg {background: #fe4819 none repeat scroll 0 0;border: 1px solid #fe4819;}
+
+.single_about:hover i {
+    background: #fe4819;
+    border: 1px solid #fe4819;
+}
+.single_about:hover h4 { color: #fe4819; }
+
+
+.progress-bar > span {background: #fe4819 none repeat scroll 0 0;}
+
+
+.single_feature i {background:#fe4819;}
+
+.carousel-indicators .active {
+    border: 1px solid #fe4819;
+    background: #fe4819 none repeat scroll 0 0;
+}
+.single_service i {color: #fe4819;}
+
+.our_work_menu ul li:hover, .our_work_menu ul li.active{
+	border-color: #fe4819 ;
+	color:#fe4819;
+}
+
+
+.counter i {color: #fe4819;}
+
+.counter:hover i {background: #fe4819 none repeat scroll 0 0;border: 1px solid #fe4819;}
+
+.single_team .social_link a:hover{
+	background: #fe4819;
+	border-color: #fe4819;
+}
+
+
+.signup_form input:focus {
+    border-color:#fe4819;
+}
+.color-two {
+    background: #fe4819;
+    color: #fff;
+}
+.color-three {
+    background: #fe4819;
+    color: #fff;
+}
+.pricing-btn  button {
+    background: #fe4819;
+    border: 1px solid #fe4819;}
+	
+.home_blog_text span {color: #fe4819;}	
+
+.buy_now {
+    background: #fe4819 none repeat scroll 0 0;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+    border-color:  #fe4819;
+    box-shadow: none;
+    outline: 0 none;
+}
+
+.btn-contact-bg {
+	background: #fe4819 none repeat scroll 0 0 !important;
+	border: 1px solid #fe4819 !important;}
+
+
+
